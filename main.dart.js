@@ -18022,7 +18022,7 @@ q=s[1]
 s=s[2]
 p=b[2]
 return A.b([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
-ak1(){var s,r,q,p,o,n,m,l,k,j,i=null,h=A.es("PPAP",i),g=t.nA
+ak1(){var s,r,q,p,o,n,m,l,k,j,i=null,h=A.es("PPAP\uff08\u30d4\u30fc\u30d4\u30fc\u30a8\u30fc\u30d4\u30fc\uff09",i),g=t.nA
 g=A.wG(A.b([A.Sc(A.b([A.es("\u2712",A.cV(i,i,i,i,i,i,i,i,i,i,i,36,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.wG(A.b([A.es("\u30da\u30f3",A.cV(i,i,i,i,i,i,i,i,i,i,i,14,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.es("Pen",A.cV(i,i,i,i,i,i,i,i,i,i,i,28,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],g),B.ah,B.cs)],g),B.ah,B.aW,B.ct),A.Sc(A.b([A.es("\ud83c\udf4d",A.cV(i,i,i,i,i,i,i,i,i,i,i,36,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.wG(A.b([A.es("\u30d1\u30a4\u30ca\u30c3\u30dd\u30fc",A.cV(i,i,i,i,i,i,i,i,i,i,i,14,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.es("Pineapple",A.cV(i,i,i,i,i,i,i,i,i,i,i,28,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],g),B.ah,B.cs)],g),B.ah,B.aW,B.ct),A.Sc(A.b([A.es("\ud83c\udf4e",A.cV(i,i,i,i,i,i,i,i,i,i,i,36,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.wG(A.b([A.es("\u30a2\u30c3\u30dd\u30fc",A.cV(i,i,i,i,i,i,i,i,i,i,i,14,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.es("Apple",A.cV(i,i,i,i,i,i,i,i,i,i,i,28,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],g),B.ah,B.cs)],g),B.ah,B.aW,B.ct),A.Sc(A.b([A.es("\ud83d\udd8a",A.cV(i,i,i,i,i,i,i,i,i,i,i,36,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.wG(A.b([A.es("\u30da\u30f3",A.cV(i,i,i,i,i,i,i,i,i,i,i,14,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)),A.es("Pen",A.cV(i,i,i,i,i,i,i,i,i,i,i,28,i,i,i,i,i,!0,i,i,i,i,i,i,i,i))],g),B.ah,B.cs)],g),B.ah,B.aW,B.ct)],g),B.b5,B.o4)
 if($.aP==null){s=A.b([],t.kf)
 r=$.a0
